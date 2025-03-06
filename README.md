@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # BUSCO & Contamination Screening Pipelines
 
 This repository contains two pipelines for genome quality control:
