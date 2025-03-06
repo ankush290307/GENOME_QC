@@ -1,1 +1,6 @@
 
+#GenomeID   GenomeFastaPath                             ProteinsFaaPath                                OutputPrefix
+iyBomFerv1  /path/to/iyBomFerv1.genome.fasta            /path/to/exgap_output/iyBomFerv1/proteins.faa  iyBomFerv1
+iyBomHunt1  /path/to/iyBomHunt1.genome.fasta            /path/to/exgap_output/iyBomHunt1/proteins.faa  iyBomHunt1
+iyBomAffi1  /path/to/iyBomAffi1.genome.fasta            /path/to/exgap_output/iyBomAffi1/proteins.faa  iyBomAffi1
+# .
